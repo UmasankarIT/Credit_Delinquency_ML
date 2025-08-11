@@ -41,6 +41,42 @@ employment_status → Employment type (Employed, Self-Employed, etc.)
 
 Delinquency → Target variable (1 = Delinquent, 0 = Not Delinquent)
 
+
+🛠 Project Workflow : 
+
+🔍 Exploratory Data Analysis (EDA):
+
+Examined data distribution, missing values, and outliers.
+
+Checked feature correlations to understand relationships.
+
+Visualized trends to spot patterns in delinquency behavior.
+
+
+🤖 Predictive Modeling: 
+
+Built multiple machine learning models (Random Forest, XGBoost, LightGBM, Logistic Regression).
+
+Compared performance based on accuracy, recall, and speed.
+
+Selected the most effective models for risk prediction.
+
+
+🧪 Synthetic Data Generation : 
+
+Used techniques like SMOTE (Synthetic Minority Oversampling Technique) to generate artificial samples for the minority class.
+
+Why it’s useful:
+
+Balances the dataset when real-world data is imbalanced.
+
+Prevents the model from being biased toward the majority class.
+
+Improves recall for rare but critical cases (e.g., customers likely to default).
+
+Maintains data diversity without collecting more real data.
+
+
 🛠️ Key Techniques Used :
 
 Data Preprocessing:
