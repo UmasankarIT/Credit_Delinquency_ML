@@ -1,4 +1,4 @@
-💳 Credit Card Delinquency Prediction 
+PayShield : Credit Card Delinquency Prediction (CDPM)
 
 📌 Overview : 
 
